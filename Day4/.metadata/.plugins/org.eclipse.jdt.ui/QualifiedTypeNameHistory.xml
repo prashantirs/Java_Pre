@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="packA.ClassA"/>
+    <fullyQualifiedTypeName name="com.run.CalculatorStatic"/>
+    <fullyQualifiedTypeName name="com.dev.NestedClassDemo.StaticInnerClass"/>
+    <fullyQualifiedTypeName name="com.dev.NestedClassDemo"/>
+    <fullyQualifiedTypeName name="com.dev.NestedClassDemo.NonStaticInnerClass"/>
+    <fullyQualifiedTypeName name="com.run.CalculatorInterface"/>
+    <fullyQualifiedTypeName name="com.hasa.Employee"/>
+    <fullyQualifiedTypeName name="com.hasa.Address"/>
+</qualifiedTypeNameHistroy>

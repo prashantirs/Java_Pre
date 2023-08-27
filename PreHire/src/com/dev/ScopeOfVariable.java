@@ -1,0 +1,19 @@
+package com.dev;
+
+public class ScopeOfVariable {
+	String name = "Lee"; //Instance Variable
+	
+	//The variables that are declared inside the class but outside the scope of any method 
+	//are called instance variables in Java.
+	//--> Constructor will take care of this for initialising
+	
+	int id = 32321; //Instance Variable (Global)
+	static String code = "+91"; //Class Variable
+	
+	public void demo() {
+		int temp = 0; //Local Variable --> Have to be initialized
+		int id = 89; //Local Variable
+		System.out.println(id);
+		System.out.println(name);
+	}
+}

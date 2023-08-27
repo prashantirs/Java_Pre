@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.run.Employee"/>
+    <fullyQualifiedTypeName name="com.run.Calculator"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.run.Manager"/>
+    <fullyQualifiedTypeName name="com.dev.Book"/>
+    <fullyQualifiedTypeName name="com.interfaces.CalculatorInterface"/>
+</qualifiedTypeNameHistroy>

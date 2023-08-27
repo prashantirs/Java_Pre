@@ -1,0 +1,10 @@
+package com.dev;
+
+public class TestScopeRunner {
+
+	public static void main(String[] args) {
+		System.out.println(ScopeOfVariable.code);
+
+	}
+
+}
